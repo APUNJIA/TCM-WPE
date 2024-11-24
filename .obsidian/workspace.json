@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "377cbdbc2bdacb6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e3e21426e22ef24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef345ff4dc446089",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TCM WPE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TCM WPE"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d4dd680da703ff04",
+    "type": "split",
+    "children": [
+      {
+        "id": "606945908686a631",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5cf7a6f65086afd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a265a023f219fd6d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8281a453bc86cded",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "98cf63bad793a834",
+    "type": "split",
+    "children": [
+      {
+        "id": "96bbc9ecdf0d5d7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c96f47b79bdf160",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Escalation Paths/Service Permissions/Service Permissions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Service Permissions"
+            }
+          },
+          {
+            "id": "75a97b708eee6aa8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Escalation Paths/Service Permissions/Service Permissions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Service Permissions"
+            }
+          },
+          {
+            "id": "6b5eb79e43d53225",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "eb43268443909e46",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Escalation Paths/Service Permissions/Service Permissions.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Service Permissions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ef345ff4dc446089",
+  "lastOpenFiles": [
+    "Resources.md",
+    "TCM WPE.md",
+    "Escalation Paths/DLL Hijacking.md",
+    "Escalation Paths/Escalation Paths.md",
+    "Escalation Paths/Executable Files.md",
+    "Escalation Paths/getsystem.md",
+    "Escalation Paths/Passwords and Port Forwarding.md",
+    "Escalation Paths/RunAs.md",
+    "Escalation Paths/Startup Applications.md",
+    "Escalation Paths/Windows Subsystem for Linux(WSL).md",
+    "Escalation Paths/Kernel Exploits.md",
+    "Pasted image 20240929020840.png.md",
+    "Escalation Paths/Service Permissions/Service Permissions.md",
+    "Escalation Paths/Service Permissions/Unquoted Service Path.md",
+    "Escalation Paths/Service Permissions/CVE-2019-1388.md",
+    "Escalation Paths/Service Permissions/Binary Path.md",
+    "Initial Enumeration/Network Enumeration.md",
+    "Escalation Paths/Registry/AlwaysInstallElevated.md",
+    "Escalation Paths/Registry/regsvc ACL.md",
+    "Escalation Paths/Registry/Registry.md",
+    "Escalation Paths/Registry/Autoruns.md",
+    "Automated Tools.md",
+    "Initial Enumeration/User Enumeration.md",
+    "Initial Enumeration/System Enumeration.md",
+    "Initial Enumeration/Password Hunting.md",
+    "Initial Enumeration/Initial Enumeration.md",
+    "Escalation Paths/Service Permissions",
+    "Escalation Paths/Registry",
+    "Escalation Paths/Impersonation and Potato Attacks",
+    "Embeds/Pasted image 20240929020950.png",
+    "Embeds",
+    "Embeds/Pasted image 20240929020840.png",
+    "Escalation Paths",
+    "Initial Enumeration"
+  ]
+}

@@ -1,0 +1,3 @@
+DLL is a Dynamic Link Library. Its almost like an exe file but not quite as they're not directly executable. They're comparable to a .so file on a linux system. They're basically shared libraries that contain stuff like classes, and functions, resources, etc. And sometimes DLLs run with executables. 
+
+In DLL hijacking, we're looking for a specific instance. When a windows environment starts up a service or an application, it looks for DLLs. If the DLL doesn't exist, we can get malicious with it. So, we're looking at a path which is writeable, and where a DLL does not exist that its looking for. 
